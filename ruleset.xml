@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<ruleset name="WordPress Core Syntax">
+    <description>WordPress Core with Syntax checking</description>
+    <rule ref="WordPress-Core"/>
+    <rule ref="Generic.PHP.Syntax"/>
+</ruleset>
